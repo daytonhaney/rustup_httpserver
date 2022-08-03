@@ -30,6 +30,5 @@ impl Server {
 
         }
     }
-
 }
-Footer
+
